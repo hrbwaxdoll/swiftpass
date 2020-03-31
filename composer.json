@@ -1,5 +1,5 @@
 {
-    "name": "barbery/swiftpass",
+    "name": "hrbwaxdoll/swiftpass",
     "type": "library",
     "time": "2017-01-23",
     "description": "这是一个威富通（swiftpass）支付工具类，实现了微信原生支付、跳转支付、退款、交易查询、退款查询等功能",
